@@ -26,10 +26,10 @@
 
 <div>
   <h2 align="left">SNS</h2>
-  <a href="https://twitter.com/msy__78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msy__78" height="30" width="40" /></a>
+  <a href="https://twitter.com/msy__78" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msy__78" height="30" width="40" /></a>
 
   <h2 align="left">Links</h2>
-  <a href="https://www.resume.id/me/resume" target="blank"><img src="https://d32fap9p1scgyy.cloudfront.net/images/logo/icon-only.svg" width="35px" height="35px" /></a>
+  <a href="[https://www.resume.id/me/resume](https://www.resume.id/msy)" target="_blank"><img src="https://d32fap9p1scgyy.cloudfront.net/images/logo/icon-only.svg" width="35px" height="35px" /></a>
 </div>
 
 <div>
