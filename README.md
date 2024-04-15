@@ -12,7 +12,8 @@
   <h2>スキルセット</h2>
   <h4>- フロントエンド</h4>
   
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,nextjs,react,vercel,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,nextjs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,supabase)](https://skillicons.dev)
   <h4>- バックエンド</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,python,fastapi,deno,nodejs)](https://skillicons.dev)
