@@ -1,26 +1,24 @@
-<h1 align="center">:nauseated_face: しがないフロントエンドエンジニア :nauseated_face:</h1>
-
 <div>
-  <h2>趣味</h2>
-  <p>三度の飯よりハイキューが好き :sunglasses:</p>
+  <h2>Likes</h2>
+  <p>Love Haikyu :sunglasses:</p>
   <div align="center">
      <img src="https://github.com/msy7822-ux/msy7822-ux/assets/55938332/0043e889-2f98-47c8-b113-cf8db755995a" width="400px" height="300px" align="center" alt="1年生ズの3年生の時の姿" />
   </div>
 </div>
 
 <div>
-  <h2>スキルセット</h2>
-  <h4>- フロントエンド</h4>
+  <h2>Skills</h2>
+  <h4>- Frontend</h4>
   
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,nextjs,react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vercel,supabase)](https://skillicons.dev)
-  <h4>- バックエンド</h4>
+  <h4>- Backend</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,python,fastapi,deno,nodejs)](https://skillicons.dev)
-  <h4>- インフラ・クラウド</h4>
+  <h4>- Infrastructure / Cloud</h4>
   
 [![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
-  <h4>- その他</h4>
+  <h4>- Others</h4>
   
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev)
 </div>
@@ -34,7 +32,7 @@
 </div>
 
 <div>
-  <h2>実績</h2>
+  <h2>Acheivement</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
