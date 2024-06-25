@@ -1,6 +1,6 @@
 <div>
   <h2>Likes</h2>
-  <p>Love Haikyu 🏐</p>
+  <p>Haikyu 🏐</p>
   <div align="center">
      <img src="https://github.com/msy7822-ux/msy7822-ux/assets/55938332/0043e889-2f98-47c8-b113-cf8db755995a" width="400px" height="300px" align="center" alt="1年生ズの3年生の時の姿" />
   </div>
