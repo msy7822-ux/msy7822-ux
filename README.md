@@ -2,11 +2,11 @@
   <h2>Skills</h2>
   <h4>- Frontend</h4>
   
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,nextjs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,remix,nextjs,react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vercel,supabase)](https://skillicons.dev)
   <h4>- Backend</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,python,fastapi,deno,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,python,fastapi,nodejs)](https://skillicons.dev)
   <h4>- Infrastructure / Cloud</h4>
   
 [![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
