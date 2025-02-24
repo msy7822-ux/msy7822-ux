@@ -3,7 +3,7 @@
   <h4>- Frontend</h4>
   
 [![My Skills](https://skillicons.dev/icons?i=ts,remix,nextjs,react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vercel,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,supabase,cloudflare)](https://skillicons.dev)
   <h4>- Backend</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,python,fastapi,nodejs)](https://skillicons.dev)
