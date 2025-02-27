@@ -26,8 +26,6 @@
 <div>
   <h2>Acheivement</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=msy7822-ux&theme=dark)](https://git.io/streak-stats)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msy7822-ux&show_icons=true&locale=ja&layout=compact&theme=dracula" alt="msy7822-ux" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msy7822-ux&show_icons=true&locale=ja&theme=dracula" alt="msy7822-ux" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msy7822-ux&theme=dracula" alt="msy7822-ux" /></a> </p>
